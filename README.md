@@ -15,3 +15,4 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue)
 ![S3](https://img.shields.io/badge/-S3-orange)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow)
+![Metabase](https://img.shields.io/badge/-Metabase-white)
