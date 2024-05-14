@@ -10,3 +10,8 @@
 ![Airflow](https://img.shields.io/badge/-Airflow-orange)
 ![Vertica](https://img.shields.io/badge/-Vertica-grey)
 ![PySpark](https://img.shields.io/badge/-PySpark-green)
+![Spark Streaming](https://img.shields.io/badge/-Spark_Streaming-orange)
+![Yandex Cloud](https://img.shields.io/badge/-Yandex_Cloud-white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue)
+![S3](https://img.shields.io/badge/-S3-orange)
+![MongoDB](https://img.shields.io/badge/-MongoDB-yellow)
