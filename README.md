@@ -1,7 +1,5 @@
 ## Hi there, I'm Aleksey
 
-# I'm a beginner Data Engineer
-
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-pink)
