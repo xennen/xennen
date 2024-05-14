@@ -1,4 +1,4 @@
-## Hi there, I'm Aleksey Repin
+## Hi there, I'm Aleksey
 
 # I'm a beginner Data Engineer
 
