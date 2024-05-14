@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Aleksey Repin
 
-<!--
-**xennen/xennen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a beginner Data Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-blue)
+![SQL](https://img.shields.io/badge/-SQL-pink)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-salad)
+![Docker](https://img.shields.io/badge/-Docker-blue)
+![Redis](https://img.shields.io/badge/-Redis-red)
+![Kafka](https://img.shields.io/badge/-Kafka-black)
+![Airflow](https://img.shields.io/badge/-Airflow-orange)
+![Vertica](https://img.shields.io/badge/-Vertica-grey)
+![PySpark](https://img.shields.io/badge/-PySpark-green)
